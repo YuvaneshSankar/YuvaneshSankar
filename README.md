@@ -2,7 +2,7 @@
 # 💫 About Me :
 ## Yuvanesh Sankar
 
-My Portfolio: (yuvaneshsankar.vercel.app)
+My Portfolio: ([yuvaneshsankar.vercel.app](https://yuvaneshsankar.vercel.app/))
 
 🔭 I’m currently working on deploying AI/ML models on embedded systems and building scalable full-stack solutions.
 

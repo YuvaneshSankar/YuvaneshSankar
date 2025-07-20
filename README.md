@@ -4,15 +4,13 @@
 
 My Portfolio: ([yuvaneshsankar.vercel.app](https://yuvaneshsankar.vercel.app/))
 
-🔭 I’m currently working on deploying AI/ML models on embedded systems and building scalable full-stack solutions.
+🔭 I’m currently working on deploying AI/ML models on embedded systems and building scalable full-stack solutions with integration of cool AI stuffs.
 
-👯 I’m looking to collaborate on projects involving AI, Embedded Systems, or Full Stack Web Development.
+👯 I’m looking to collaborate on projects involving GEN AI, Embedded Systems, or Full Stack Web Development.
 
-🤝 I’m looking for help with advanced NLP and transformer-based architectures for real-time applications.
+🤝 I’m looking forward to work in advanced architectures other than transformers.
 
 🌱 I’m currently learning about cloud-native AI deployment and advanced system design for distributed applications.
-
-💬 Ask me about Embedded AI, Full Stack Development, or Deep Learning.
 
 ⚡ Fun fact: I love integrating hardware with AI and have built systems that run deep learning models on microcontrollers!
 

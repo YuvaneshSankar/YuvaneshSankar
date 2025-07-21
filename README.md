@@ -8,11 +8,13 @@ My Portfolio: ([yuvaneshsankar.vercel.app](https://yuvaneshsankar.vercel.app/))
 
 👯 I’m looking to collaborate on projects involving GEN AI, Embedded Systems, or Full Stack Web Development.
 
-🤝 I’m looking forward to work in advanced architectures other than transformers.
+🤝 I’m looking forward to work in advanced architectures byeond transformers.
 
 🌱 I’m currently learning about cloud-native AI deployment and advanced system design for distributed applications.
 
 ⚡ Fun fact: I love integrating hardware with AI and have built systems that run deep learning models on microcontrollers!
+
+✨ Love to read and implement research papers
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/yuvanesh-sankar) 

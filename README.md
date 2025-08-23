@@ -6,6 +6,8 @@ My Portfolio: ([yuvaneshsankar.vercel.app](https://yuvaneshsankar.vercel.app/))
 
 🧠 I’m currently working on Reinforcement Learning (RL), exploring how agents can learn strategies through self-play and advanced neural architectures.
 
+🚀 Experimenting with inference engines, CUDA, and model parallelization , model switching and engine switching.
+
 🔭 I’m currently working on deploying AI/ML models on embedded systems and building scalable full-stack solutions with seamless AI integration.
 
 👯 I’m looking to collaborate on projects involving Gen AI, LLM Inference Engines, Embedded Systems, or Full Stack Web Development.
@@ -14,7 +16,7 @@ My Portfolio: ([yuvaneshsankar.vercel.app](https://yuvaneshsankar.vercel.app/))
 
 🌱 I’m currently learning about cloud-native AI deployment and advanced system design for distributed applications.
 
-⚡ Fun fact: I love integrating hardware with AI — from running deep learning models on microcontrollers ⚙️🤖 to experimenting with inference engines, CUDA, and model parallelization 🚀.
+⚡ Fun fact: I love integrating hardware with AI — from running deep learning models on microcontrollers ⚙️🤖.
 
 ✨ I also enjoy reading research papers and implementing them to push my understanding further 📚🔬.
 

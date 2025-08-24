@@ -34,4 +34,7 @@ My Portfolio: ([yuvaneshsankar.vercel.app](https://yuvaneshsankar.vercel.app/))
 # 🧠✨Quote of the day :
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
+# Wanna see more 💀 :
+![Quote](https://zenquotes.io/api/image)
+
 

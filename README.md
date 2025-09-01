@@ -12,6 +12,7 @@
 
 
 
+
 🧠 I’m currently working on Reinforcement Learning (RL), exploring how agents can learn strategies through self-play and advanced neural architectures.
 
 🚀 Experimenting with inference engines, CUDA, and model parallelization , model switching and engine switching.

@@ -1,7 +1,16 @@
+<h1 align="center">Yuvanesh Sankar</h1>
 
-------------------------------------------------------------------------## Yuvanesh Sankar
+<p align="center">
+  <strong>Backend Dev | ML Engineer | Kernel level Enthusias</strong>
+</p>
 
-My Portfolio: ([yuvaneshsankar.vercel.app](https://yuvaneshsankar.vercel.app/))
+<p align="center">
+  <a href="https://yuvaneshsankar.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/yuvanesh-sankar/">LinkedIn</a> •
+  <a href="https://x.com/its_not_yuvi">Twitter</a>
+</p>
+
+
 
 🧠 I’m currently working on Reinforcement Learning (RL), exploring how agents can learn strategies through self-play and advanced neural architectures.
 

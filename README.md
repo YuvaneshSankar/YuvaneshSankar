@@ -1,6 +1,5 @@
 
-# 💫 About Me :
-## Yuvanesh Sankar
+------------------------------------------------------------------------## Yuvanesh Sankar
 
 My Portfolio: ([yuvaneshsankar.vercel.app](https://yuvaneshsankar.vercel.app/))
 

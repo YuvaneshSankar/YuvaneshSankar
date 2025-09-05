@@ -1,7 +1,7 @@
 <h1 align="center">Yuvanesh Sankar</h1>
 
 <p align="center">
-  <strong>Backend Dev | ML Engineer | Kernel level Enthusias</strong>
+  <strong>Backend Dev | ML Engineer | Systems & Inference Engineer</strong>
 </p>
 
 <p align="center">
@@ -13,22 +13,19 @@
 
 
 
-🧠 I’m currently working on Reinforcement Learning (RL), exploring how agents can learn strategies through self-play and advanced neural architectures.
+🚀 Passionate about building lightning-fast inference engines — I experiment with CUDA, model parallelization, model switching, and engine-level optimization to squeeze out every last drop of performance.
 
-🚀 Experimenting with inference engines, CUDA, and model parallelization , model switching and engine switching.
+🧠 Deep into the guts of AI systems, where low-level meets high-impact — whether it’s optimizing tensor operations, customizing runtime backends, or engineering smarter model dispatching pipelines.
 
-🔭 I’m currently working on deploying AI/ML models on embedded systems and building scalable full-stack solutions with seamless AI integration.
+🔍 Currently exploring how agents learn via self-play in Reinforcement Learning, and how we can scale these systems efficiently on real hardware.
 
-👯 I’m looking to collaborate on projects involving Gen AI, LLM Inference Engines, Embedded Systems, or Full Stack Web Development.
+🛠️ I love hacking at the intersection of AI and systems — think inference stacks, GPU kernels, memory layouts, and runtime logic.
 
-🤝 I’m looking forward to working on advanced architectures beyond transformers and exploring novel approaches to intelligence.
+👯 Open to collaborating on LLM inference, embedded AI, or any project that involves making models run faster, leaner, or in unexpected places.
 
-🌱 I’m currently learning about cloud-native AI deployment and advanced system design for distributed applications.
+⚡ Fun fact: Nothing gets me more excited than debugging performance bottlenecks or crafting custom CUDA kernels to beat baseline benchmarks.
 
-⚡ Fun fact: I love integrating hardware with AI — from running deep learning models on microcontrollers ⚙️🤖.
-
-✨ I also enjoy reading research papers and implementing them to push my understanding further 📚🔬.
-
+📚 When I'm not building, I’m reading cutting-edge research and actually implementing the ideas — because theory is only as good as what runs.
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/yuvanesh-sankar) 
 

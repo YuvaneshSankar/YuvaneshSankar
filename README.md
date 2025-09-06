@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://yuvaneshsankar.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/yuvanesh-sankar/">LinkedIn</a> •
-  <a href="https://x.com/its_not_yuvi](https://x.com/noxair56945">Twitter</a>
+  <a href="https://x.com/noxair56945">Twitter</a>
 </p>
 
 

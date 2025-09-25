@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://yuvaneshsankar.vercel.app/">Portfolio</a> •
+  <a href="https://yuvanesh.vercel.app/">Research Portfolio</a> •
   <a href="https://www.linkedin.com/in/yuvanesh-sankar/">LinkedIn</a> •
   <a href="https://x.com/noxair56945">Twitter</a>
 </p>
@@ -27,7 +28,8 @@
 
 📚 When I'm not building, I’m reading cutting-edge research and actually implementing the ideas — because theory is only as good as what runs.
 
-Not you traditional coder ..... does random things at random times ... life sucks but yeah lets see(please ignore this ... this is my ranting)
+🧠 This is where the most exciting projects we have done are there -> <a href="[https://x.com/noxair56945](https://github.com/HyperKuvid-Labs)/">HyperKuvidLabs</a>
+
 
 
 # 💻Tech Stack

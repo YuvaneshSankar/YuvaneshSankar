@@ -28,7 +28,7 @@
 
 📚 When I'm not building, I’m reading cutting-edge research and actually implementing the ideas — because theory is only as good as what runs.
 
-🧠 This is where the most exciting projects we have done are there -> <a href="https://github.com/HyperKuvid-Labs/">HyperKuvidLabs</a>
+🧠 This is where the most exciting projects are -> <a href="https://github.com/HyperKuvid-Labs/">HyperKuvidLabs</a>
 
 
 

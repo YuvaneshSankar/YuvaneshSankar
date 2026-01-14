@@ -1,4 +1,4 @@
-<h1 align="center">Yuvanesh Sankar</h1>
+<h1 align="center">Yuvanesh Sankar </h1>
 
 <p align="center">
   <strong>Backend Dev | ML Engineer | Systems & Inference Engineer</strong>

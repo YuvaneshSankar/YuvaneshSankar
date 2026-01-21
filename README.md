@@ -14,9 +14,9 @@
 
 
 
-🚀 Passionate about building lightning-fast inference engines — I experiment with CUDA, model parallelization, model switching, and engine-level optimization to squeeze out every last drop of performance.
+>?>Passionate about building lightning-fast inference engines — I experiment with CUDA, model parallelization, model switching, and engine-level optimization to squeeze out every last drop of performance.
 
-🧠 Deep into the guts of AI systems, where low-level meets high-impact — whether it’s optimizing tensor operations, customizing runtime backends, or engineering smarter model dispatching pipelines.
+>?>Deep into the guts of AI systems, where low-level meets high-impact — whether it’s optimizing tensor operations, customizing runtime backends, or engineering smarter model dispatching pipelines.
 
 🔍 Currently exploring how agents learn via self-play in Reinforcement Learning, and how we can scale these systems efficiently on real hardware.
 

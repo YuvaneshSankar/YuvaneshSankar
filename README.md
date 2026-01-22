@@ -25,7 +25,7 @@
 
 ;>>> Fun fact: Nothing gets me more excited than debugging performance bottlenecks or crafting custom CUDA kernels to beat baseline benchmarks.
 
-;>>> When I'm not building, I’m reading cutting-edge research and actually implementing the ideas — because theory is only as good as what runs.
+;>>> When I'm not building, I’m reading  cutting-edge research and actually implementing the ideas — because theory is only as good as what runs.
 
 ;>>> This is where the most exciting projects are -> <a href="https://github.com/HyperKuvid-Labs/">HyperKuvidLabs</a>
 

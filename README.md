@@ -1,7 +1,7 @@
 <h1 align="center">Yuvanesh Sankar </h1>
 
 <p align="center">
-  <strong>Backend Dev | ML Engineer | Systems & Inference Engineer</strong>
+  <strong>Backend Dev  | ML Engineer | Systems & Inference Engineer</strong>
 </p>
 
 <p align="center">

@@ -15,7 +15,7 @@
 
 
 
--↣CUDA kernels, inference engines, model switching, and low-level runtime optimization, parallelism , distributed training.
+↣CUDA kernels, inference engines, model switching, and low-level runtime optimization, parallelism , distributed training.
 
 ↣Currently exploring scalable reinforcement learning systems and efficient deployment on GPUs and embedded hardware.
 
@@ -23,7 +23,7 @@
 
 ↣Building high-performance AI infrastructure.Agentic AI , GEN AI.
 
-↣Want to understand my team work nature -> <a href="https://github.com/HyperKuvid-Labs/">HyperKuvidLabs</a>
+↣My team  -> <a href="https://github.com/HyperKuvid-Labs/">HyperKuvidLabs</a>
 
 
 

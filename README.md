@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://yuvanesh.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/yuvanesh-sankar/">LinkedIn</a> •
-  <a href="https://x.com/noxair56945">Twitter</a>
+  <a href="https://yuvanesh.vercel.app/">Portfolio</a> |
+  <a href="https://x.com/noxair56945">X</a> |
+  <a href="https://www.linkedin.com/in/yuvanesh-sankar/">LinkedIn</a> 
 </p>
 
 

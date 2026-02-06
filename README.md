@@ -38,8 +38,6 @@
 </p>
 
 
-# Quote of the day :
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 
 

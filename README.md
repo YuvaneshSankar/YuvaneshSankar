@@ -13,21 +13,17 @@
 
 
 
-;>>> Passionate about building lightning-fast inference engines — I experiment with CUDA, model parallelization, model switching, and engine-level optimization to squeeze out every last drop of performance.
 
-;>>> Deep into the guts of AI systems, where low-level meets high-impact — whether it’s optimizing tensor operations, customizing runtime backends, or engineering smarter model dispatching pipelines.
 
-;>>> Currently exploring how agents learn via self-play in Reinforcement Learning, and how we can scale these systems efficiently on real hardware.
+-↣CUDA kernels, inference engines, model switching, and low-level runtime optimization, parallelism , distributed training.
 
-;>>> I love hacking at the intersection of AI and systems — think inference stacks, GPU kernels, memory layouts, and runtime logic.
+↣Currently exploring scalable reinforcement learning systems and efficient deployment on GPUs and embedded hardware.
 
-;>>> Open to collaborating on LLM inference, embedded AI, or any project that involves making models run faster, leaner, or in unexpected places.
+↣Reinforcement learning with human feedback and verifiable rewards .(RLHF and RLVR)
 
-;>>> Fun fact: Nothing gets me more excited than debugging performance bottlenecks or crafting custom CUDA kernels to beat baseline benchmarks.
+↣Building high-performance AI infrastructure.Agentic AI , GEN AI.
 
-;>>> When I'm not building, I’m reading  cutting-edge research and actually implementing the ideas — because theory is only as good as what runs.
-
-;>>> This is where the most exciting projects are -> <a href="https://github.com/HyperKuvid-Labs/">HyperKuvidLabs</a>
+↣Want to understand my team work nature -> <a href="https://github.com/HyperKuvid-Labs/">HyperKuvidLabs</a>
 
 
 

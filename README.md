@@ -32,14 +32,14 @@
 
 # GitHub Stats :
 
-<!-- <div align="center">
+<div align="center">
   <img src="./metrics-isocalendar.svg" alt="Isometric commit calendar" width="400">
-</div> -->
-<p align="center">
+</div> 
+<!-- <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=YuvaneshSankar&show_icons=true&theme=tokyonight"/>
   <br/>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=YuvaneshSankar&theme=tokyonight"/>
-</p>
+</p> -->
 
 
 

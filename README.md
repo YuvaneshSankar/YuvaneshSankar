@@ -19,7 +19,7 @@
 
 ↣Currently exploring scalable reinforcement learning systems and efficient deployment on GPUs and embedded hardware.
 
-↣Reinforcement learning with human feedback and verifiable rewards .( RLHF and RLVR)
+↣Reinforcement learning with human feedback and verifiable rewards .(RLHF and RLVR)
 
 ↣Building high-performance AI infrastructure.Agentic AI , GEN AI.
 
